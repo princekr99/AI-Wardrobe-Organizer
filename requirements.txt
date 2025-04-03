@@ -1,0 +1,5 @@
+Flask
+python-dotenv
+google-generativeai
+# Add other libraries like requests, Pillow (for image processing), etc. if needed
+# Specify versions for better stability, e.g., Flask==2.3.0
